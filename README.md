@@ -1,5 +1,5 @@
 # WebBench  
-犹如DDOS攻击  简直太强大了，不支持https 但是支持http 有https://monsieurfujisushi.comaco.fr/ 的使用http://monsieurfujisushi.comaco.fr/ 效果一样
+犹如DDOS攻击  简直太强大了，不支持https 但是支持http 有https://XXX.comaco.fr/ 的使用http://XXX.comaco.fr/ 效果一样，同样针对小型服务器使用http://ip/也可以打趴，但效果没域名好
 Webbench是一个在linux下使用的非常简单的网站压测工具。它使用fork()模拟多个客户端同时访问我们设定的URL，测试网站在压力下工作的性能，最多可以模拟3万个并发连接去测试网站的负载能力。
 
 ## 依赖
