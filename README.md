@@ -1,5 +1,5 @@
 # WebBench  
-犹如DDOS攻击  简直太强大了，不支持https 但是支持http 有https://XXX.comaco.fr/ 的使用http://XXX.comaco.fr/ 效果一样，同样针对小型服务器使用http://ip/也可以打趴，但效果没域名好
+犹如DDOS攻击  简直太强大了，不支持https 但是支持http 有cloudflare的请使用服务器原来ip地址作为攻击目标例如：http://36.111.11.11 有https://XXX.comaco.fr/ 的使用http://XXX.comaco.fr/ 效果一样，同样针对小型服务器使用http://ip/也可以打趴，但效果没域名好
 使用三台服务器攻击可以打趴大部分大型机器一个-c3000 一个-c1500一个-c2000
 Webbench是一个在linux下使用的非常简单的网站压测工具。它使用fork()模拟多个客户端同时访问我们设定的URL，测试网站在压力下工作的性能，最多可以模拟3万个并发连接去测试网站的负载能力。
 
